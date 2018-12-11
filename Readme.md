@@ -23,7 +23,7 @@ This tutorial uses the following:
 First of all, clone the repository to your local machine:
 
 ```sh
- $ git clone https://github.com/NLPDev/flask_chatbot.git
+ $ git clone https://github.com/NLPDev/ChatBot.git
 ```
 
 Next, create your environment keys:
