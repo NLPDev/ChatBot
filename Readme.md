@@ -2,6 +2,8 @@
 
 This is a demo application showing how to build a Chat bot using Flask, Dialogflow and Pusher. 
 
+![Sample working application](https://image.ibb.co/e6pMQJ/chat_bot_sample.gif "Sample working application")
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
