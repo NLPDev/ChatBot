@@ -1,8 +1,6 @@
 # How to build a chat bot with Flask, Pusher Channels and Dialogflow
 
-This is a demo application showing how to build a Chat bot using Flask, Dialogflow and Pusher. You can read the tutorial on how it was built [here](https://pusher.com/tutorials/chatbot-flask-dialogflow)
-
-![Sample working application](https://image.ibb.co/e6pMQJ/chat_bot_sample.gif "Sample working application")
+This is a demo application showing how to build a Chat bot using Flask, Dialogflow and Pusher. 
 
 ## Getting Started
 
